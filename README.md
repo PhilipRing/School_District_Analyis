@@ -10,3 +10,7 @@ The purpose of this analysis was to provide the school board and superintendent 
 -District Summary
 ---
 When I removed the 9th grade scores from Thomas High School I was able to identify changes in this dataframe. 
+---
+![with 9th](https://github.com/PhilipRing/School_District_Analysis/blob/master/images/district_summary_with_9th_.png)
+---
+
